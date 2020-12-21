@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "spago run",
     "build": "spago build",
     "test": "spago test"
   },
