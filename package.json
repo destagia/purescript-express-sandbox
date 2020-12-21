@@ -1,0 +1,17 @@
+{
+  "name": "purescript-sandbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "spago build",
+    "test": "spago test"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "~4.16.3",
+    "purescript": "^0.13.8",
+    "spago": "^0.17.0"
+  }
+}
